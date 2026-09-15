@@ -1,7 +1,7 @@
 package corejava;
 import java.util.Scanner;
 public class Gc {
-	public static void main(Strings args[]) {
+	public static void main(String args[]) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the value of N :");
 		System.out.println("enter the value of N :");
